@@ -1,6 +1,6 @@
 #include <SoftwareSerial.h>
 /* Create object named bt of the class SoftwareSerial */
-SoftwareSerial bt(2,3); // RX, TX
+SoftwareSerial bt(0,1); // RX, TX
 #define ledPin 13
 char state = 0;
 void setup() {
