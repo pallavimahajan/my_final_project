@@ -1,5 +1,5 @@
 #include <SoftwareSerial.h>
-SoftwareSerial BLU(0,1);
+SoftwareSerial BLU(2,3);
 #define redPin 6
 #define greenPin 3
 #define bluePin 5
