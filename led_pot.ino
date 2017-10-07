@@ -1,5 +1,5 @@
 int potPin= A0;  //Declare potPin to be analog pin A0
-int LEDPin= 9;  // Declare LEDPin to be arduino pin 9
+int LEDPin= 8;  // Declare LEDPin to be arduino pin 9
 int readValue;  // Use this variable to read Potentiometer
 int writeValue; // Use this variable for writing to LED
  
